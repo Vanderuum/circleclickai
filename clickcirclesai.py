@@ -4,9 +4,6 @@ from gym import spaces
 import math
 import time
 import random
-import win32api
-import win32con
-import mouse
 import keyboard
 import numpy as np
 import matplotlib.pyplot as plt
